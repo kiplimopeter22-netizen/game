@@ -1,14 +1,10 @@
 # Game Dev Studio CLI
-
 Game Dev Studio CLI is a small Python command-line app for keeping track of a game studio's team, projects, and tasks.
 
 It lets you add team members, create projects, assign work, update task statuses, and print a simple studio report. Data is saved locally in `data/studio.json`.
-
 ## Requirements
-
 - Python 3.10 or newer
 - pip
-
 ## Setup
 
 Clone the project, move into the folder, and install the dependencies:
